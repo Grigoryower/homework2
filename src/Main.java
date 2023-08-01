@@ -87,7 +87,8 @@ public class Main {
         var additionalEmployees= 94;
         var allEmployees = totalEmployees + additionalEmployees ;
         var openingHours = allEmployees * timeOfOneOmployee ;
-        System.out.println("Если в компании работает " + allEmployees + " человек, то всего" + openingHours + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает. " + allEmployees + " человек, то всего" + openingHours + " часов работы может быть поделено между сотрудниками");
+        System.out.println(" Накосячил же ???");
     }
 
 
